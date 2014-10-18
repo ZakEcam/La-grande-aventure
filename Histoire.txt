@@ -1,2 +1,6 @@
 L'histoire dÃ©buta dans un restaurant. Notre héro s'apelle le gentil Fabien.
-Lorsque soudain un malotrus approcha derrière Fabien et vint lui toucher l'épaule.
+<<<<<<< HEAD
+=======
+Lorsque soudain un malotrus approcha derrière Fabien et vint le frapper à l'épau
+le.
+>>>>>>> conflit
